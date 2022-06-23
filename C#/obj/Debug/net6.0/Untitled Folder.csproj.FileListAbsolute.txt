@@ -1,0 +1,30 @@
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/bin/Debug/net6.0/Untitled Folder
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/bin/Debug/net6.0/Untitled Folder.deps.json
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/bin/Debug/net6.0/Untitled Folder.runtimeconfig.json
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/bin/Debug/net6.0/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/bin/Debug/net6.0/Untitled Folder.pdb
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.csproj.AssemblyReference.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.GeneratedMSBuildEditorConfig.editorconfig
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.AssemblyInfoInputs.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.AssemblyInfo.cs
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.csproj.CoreCompileInputs.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/refint/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.pdb
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/Untitled Folder.genruntimeconfig.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/Untitled Folder/obj/Debug/net6.0/ref/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/bin/Debug/net6.0/Untitled Folder
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/bin/Debug/net6.0/Untitled Folder.deps.json
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/bin/Debug/net6.0/Untitled Folder.runtimeconfig.json
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/bin/Debug/net6.0/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/bin/Debug/net6.0/Untitled Folder.pdb
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.csproj.AssemblyReference.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.GeneratedMSBuildEditorConfig.editorconfig
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.AssemblyInfoInputs.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.AssemblyInfo.cs
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.csproj.CoreCompileInputs.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/refint/Untitled Folder.dll
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.pdb
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/Untitled Folder.genruntimeconfig.cache
+/home/zaki/Desktop/Programming/TechAssessments/Stark/C#/obj/Debug/net6.0/ref/Untitled Folder.dll
