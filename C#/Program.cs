@@ -1,4 +1,4 @@
-﻿using static Company.ClassesAndInterface;
+﻿using static Company.Classes;
 using static Company.StandaloneMethods;
 
 namespace Company
@@ -7,27 +7,33 @@ namespace Company
     {
         static void Main(string[] args)
         {
-            // Euclidean distance
-            var testNode = new DerivedNode("hello", 1, 1);
-            Console.WriteLine();
-            Console.WriteLine(testNode.ToString());
-            Console.WriteLine();
-            Console.WriteLine(testNode.GetDistance(1000, 1000));
-            Console.WriteLine();
+            // // override toString()
+            // var testNode = new DerivedNode("hello", 1, 1);
+            // Console.WriteLine();
 
-            // ListA
-            var list_one = GenerateRandomDerivedNodes(100);
-            list_one.ForEach(x => Console.WriteLine(x.ToString()));
-            Console.WriteLine("");
+            // // Euclidean distance
+            // Console.WriteLine(testNode.ToString());
+            // Console.WriteLine();
+            // Console.WriteLine(testNode.GetDistance(10, 10));
+            // Console.WriteLine();
 
-            // ListB
-            var list_two = GenerateRandomDerivedNodes(100);
-            list_two.ForEach(x => Console.WriteLine(x.ToString()));
-            Console.WriteLine("");
+            // // ListA
+            // var list_one = GenerateRandomDerivedNodes(20);
+            // list_one.ForEach(x => Console.WriteLine(x.ToString()));
+            // Console.WriteLine("");
 
-            // Combined and filtered lists
-            var filteredAndCombinedNodeList = ProcessNodes(list_one, list_two);
-            filteredAndCombinedNodeList.ForEach(x => Console.WriteLine(x.ToString()));
+            // // ListB
+            // var list_two = GenerateRandomDerivedNodes(20);
+            // list_two.ForEach(x => Console.WriteLine(x.ToString()));
+            // Console.WriteLine("");
+
+            // // Combined and filtered lists
+            // var filteredAndCombinedNodeList = ProcessNodes(list_one, list_two);
+            // filteredAndCombinedNodeList.ForEach(x => Console.WriteLine(x.ToString()));
+            var testingAsync = LongRunningProcess();
+           
+            Console.WriteLine(testingAsync);
+
 
         }
 

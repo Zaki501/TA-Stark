@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static Company.ClassesAndInterface;
+﻿using static Company.Classes;
 
 namespace Company
 {
@@ -72,6 +67,31 @@ namespace Company
             return filteredCombinedNodes.ToList();
         }
 
+        public static async Task<string[]> LongRunningProcess()
+        {
+            var a = Task.Run(() =>
+            {
+                Thread.Sleep(2000);
+                // Console.WriteLine("Finished Task 1");
+                return "Finished Task 1";
+            });
 
+            var b = Task.Run(() =>
+            {
+                Thread.Sleep(2000);
+                return "Finished Task 2";
+            });
+
+
+            var c = Task.Run(() =>
+            {
+                Thread.Sleep(2000);
+                return "Finished Task 3";
+            });
+
+
+            var results = await Task.WhenAll(a, b, c);
+            return results;
+        }
     }
 }

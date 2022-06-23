@@ -3,42 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Company.Interfaces;
+// using Company.Exceptions;
 
 namespace Company
 {
-    internal class ClassesAndInterface
+    internal class Classes
     {
-
-public class EmployeeListNotFoundException : Exception
-{
-    public EmployeeListNotFoundException()
-    {
-    }
-
-    public EmployeeListNotFoundException(string message)
-        : base(message)
-    {
-    }
-
-    public EmployeeListNotFoundException(string message, Exception inner)
-        : base(message, inner)
-    {
-    }
-}
-
-        public interface IDistance
-        {
-            double GetDistance(int x, int y);
-        }
-
 
         public abstract class Node
         {
             public int X { get; set; }
             public int Y { get; set; }
         }
-
-
 
         public class DerivedNode : Node, IDistance
         {
@@ -62,14 +39,11 @@ public class EmployeeListNotFoundException : Exception
 
                 if (distance > 200)
                 {
-                    throw new Exception(
-                        "OutofRange");
+                    throw new OutOfRangeException("OutofRange - Distance exceeds 200 (Distance is: " + distance + ")");
                 }
                 return distance;
             }
         }
-
-
 
     }
 }
